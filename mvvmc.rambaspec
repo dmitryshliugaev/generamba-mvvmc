@@ -18,7 +18,7 @@ code_files:
 # Model layer
 - {name: Model/Model.swift, path: Code/Model/Model.swift.liquid}
 
-# Model layer
+# Service layer
 - {name: Service/Service.swift, path: Code/Service/Service.swift.liquid}
 
 # Coordinator layer
